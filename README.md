@@ -6,7 +6,7 @@ Me interesa diseñar y desarrollar aplicaciones, construir APIs y aprender sobre
 
 - 🎓 Estudiante de **Ingeniería de Sistemas**.
 - 🚀 Desarrollando proyectos de escritorio, aplicaciones móviles y APIs.
-- 🏗️ Aprendiendo y aplicando principios de **Clean Architecture** y buenas prácticas de desarrollo.
+- 🏗️ Aprendiendo y aplicando principios de **Clean Architecture, MVC** y buenas prácticas de desarrollo.
 - 🧠 Interesado en Java, desarrollo backend, bases de datos y herramientas para desarrolladores.
 - 📌 Siempre buscando nuevos retos para seguir creciendo profesionalmente.
 
