@@ -75,7 +75,7 @@ Terminal Git con interfaz gráfica desarrollada con Java y JavaFX, enfocada en m
   <a href="https://github.com/AugustoDevZ">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/c%C3%A9sar-rodr%C3%ADguez-29475a407/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
