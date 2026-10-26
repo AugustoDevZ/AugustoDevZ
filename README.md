@@ -35,26 +35,6 @@ Me interesa diseñar y desarrollar aplicaciones, construir APIs y aprender sobre
 También trabajo con **SQL Server, JDBC, FXML, CSS, YAML, APIs REST y Maven**.
 
 ---
-
-## 🚀 Proyectos destacados
-
-### 🖥️ [MineIDE](https://github.com/Zadints/MineIDE)
-IDE en desarrollo orientado a la administración y ejecución de servidores de Minecraft, con Java y JavaFX.
-
-### 🌐 [Zadints API](https://github.com/AugustoDevZ/Zadints-API)
-Proyecto backend enfocado en el desarrollo de APIs utilizando Node.js y Express.
-
-### 📱 [Servinet Móvil](https://github.com/AugustoDevZ/Servinet-Movil)
-Aplicación móvil desarrollada con Flutter como parte del ecosistema de Servinet.
-
-### 🍽️ [Restaurant APP](https://github.com/AugustoDevZ/Restaurant-APP)
-Proyecto de aplicación relacionado con la gestión de un restaurante.
-
-### ⚙️ ZGit
-Terminal Git con interfaz gráfica desarrollada con Java y JavaFX, enfocada en mejorar la experiencia de trabajo con comandos y repositorios Git.
-
----
-
 ## 📊 Mi actividad en GitHub
 
 <p>
