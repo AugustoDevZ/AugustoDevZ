@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Augusto Rodríguez
+# 👋 ¡Hola! Soy César Augusto
 
 ### 💻 Estudiante de Ingeniería de Sistemas | Desarrollador de Software
 
