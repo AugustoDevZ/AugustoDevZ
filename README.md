@@ -62,7 +62,3 @@ También trabajo con **SQL Server, JDBC, FXML, CSS, YAML, APIs REST y Maven**.
 
 ---
 
-> 💡 *Aprendiendo, construyendo y mejorando un proyecto a la vez.*
-
-⭐ ¡Gracias por visitar mi perfil!
-
