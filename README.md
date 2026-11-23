@@ -5,7 +5,7 @@
 
 ### 👋 Welcome to my digital world!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Kotlin+%7C+Spring+Boot;React+%7C+TypeScript+%7C+Tailwind;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;React+%7C+TypeScript+%7C+Tailwind;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG"/>
 
 <br/>
 
@@ -61,7 +61,7 @@ public class AugustoDevZ {
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs,js,ts,python,dart&theme=light"/>
+<img src="https://skillicons.dev/icons?i=java,cs,js,ts,python,dart&theme=light"/>
 
 ### 🌐 Frontend
 
@@ -79,7 +79,7 @@ public class AugustoDevZ {
 
 ### 🛠️ Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,gradle,maven,idea,vscode,postman,docker&theme=light"/>
+<img src="https://skillicons.dev/icons?i=git,github,gradle,maven,idea,vscode&theme=light"/>
 
 </div>
 
